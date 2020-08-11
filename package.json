@@ -1,0 +1,26 @@
+{
+  "name": "react-native-local-device-auth",
+  "version": "1.0.0",
+  "description": "Reusable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBub/react-native-local-device-auth.git"
+  },
+  "keywords": [
+    "react-native",
+    "react"
+  ],
+  "author": "Sveta Buben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SBub/react-native-local-device-auth/issues"
+  },
+  "homepage": "https://github.com/SBub/react-native-local-device-auth#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.62.0"
+  }
+}
